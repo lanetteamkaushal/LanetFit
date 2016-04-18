@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LanetFit</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_explanation">Allow this app to use your location to show distance to attractions?</string>
+    <string name="permission_explanation_action">Let\'s do it!</string>
+    <string name="location_updated_message">Location updated</string>
+</resources>
